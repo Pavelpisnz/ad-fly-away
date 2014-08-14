@@ -1,3 +1,8 @@
+Unmaintained
+======
+
+This script is broken and unmaintained.
+
 Ad, Fly Away!
 ======
 
